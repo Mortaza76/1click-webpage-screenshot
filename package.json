@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/1click-extensions/1click-webpage-screenshot#readme",
   "dependencies": {
-    "@types/chrome": "0.0.81"
+    "@types/chrome": "0.0.253"
   }
 }
